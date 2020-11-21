@@ -10,7 +10,7 @@ if (url.includes('meet')) {
     }
 }
 if (document.getElementsByClassName('wnPUne').length > 0) {
-    if(document.querySelector('.wnPUne').innerHTML<=10){
+    if(document.querySelector('.wnPUne').innerHTML<10){
     document.querySelector('[aria-label="Leave call"]').click();
     }
     chrome.runtime.sendMessage({
