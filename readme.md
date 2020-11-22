@@ -1,1 +1,3 @@
+THIS IS JUST A SUPPORT EXTENSION FOR MY GOOGLE MEET BOT
 
+CHECK THE BOT HERE https://github.com/thedopepirate/gmbot.git
